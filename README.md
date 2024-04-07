@@ -10,3 +10,5 @@ ore-moos-auto 自动化远程部署Ubuntu挖矿环境，自主选择创建钱包
 运行./run.sh
 进行相关操作
 ![image](https://github.com/vnxfsc/ore-moos-auto/assets/40782902/add8d58b-43a4-4ccd-ad33-c377bb68af06)
+
+Solana捐赠地址 ： CVRpKWpLuFpcxUnWq6QjqMtdLujqJZAteWiBc9fRFeGv
