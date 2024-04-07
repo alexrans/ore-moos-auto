@@ -1,5 +1,6 @@
 # ore-moos-auto
 ore-moos-auto 自动化远程部署Ubuntu挖矿环境，自主选择创建钱包数据，设置Gas费用，设置Rpc，工作室必备工具。
+
 使用方法：
  python ore-moos-auto.py
 填写VPS SSH信息  IP 用户（建议root） 密码  端口
